@@ -143,7 +143,7 @@ tech-quiz-app/
 
 ## Tutorial Video
 
-chrome-extension://hniebljpgcogalllopnjokppmgbhaden/index.html#/my-videos/1
+[Watch the Tutorial on Screi.co](https://app.scre.io/#/my-videos/1)
 
 ## User Story
 
