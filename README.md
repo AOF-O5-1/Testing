@@ -143,7 +143,7 @@ tech-quiz-app/
 
 ## Tutorial Video
 
-*[Include screenshots of the application here]*
+chrome-extension://hniebljpgcogalllopnjokppmgbhaden/index.html#/my-videos/1
 
 ## User Story
 

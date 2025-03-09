@@ -20,6 +20,7 @@ export default defineConfig({
   },
 
   e2e: {
+    supportFile: false,
     specPattern: 'cypress/e2e/**/*.cy.{js,jsx,ts,tsx}',
     baseUrl: 'http://localhost:3001',
     setupNodeEvents(on, config) {
